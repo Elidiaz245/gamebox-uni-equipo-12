@@ -3,4 +3,5 @@ prueba
 #GameBox UNI
 Proyecto de practica para Sistemas y Computacion.
 ## Byte
-Byte atraviesa paredes.
+Byte se detiene ante las paredes.
+Byte detecta errores ocultos.
